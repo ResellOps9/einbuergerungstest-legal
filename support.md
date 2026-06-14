@@ -4,7 +4,7 @@
 
 Bei Fragen, Problemen oder Feedback erreichst du uns per E-Mail:
 
-**[DEINE EMAIL]**
+resellops9@gmail.com
 
 Wir antworten in der Regel innerhalb von 48 Stunden.
 
@@ -38,5 +38,5 @@ Ja — die App funktioniert vollständig ohne Internetverbindung. Alle 460 Frage
 ## App-Informationen
 
 **App:** Einbürgerungstest Lernapp  
-**Entwickler:** Maximilian Hey  
-**Kontakt:** [DEINE EMAIL]
+**Entwickler:** Max Heyder  
+**Kontakt:** resellops9@gmail.com
